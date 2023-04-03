@@ -1,0 +1,17 @@
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\Rough3.exe
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\Rough3.deps.json
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\Rough3.runtimeconfig.json
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\Rough3.dll
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\ref\Rough3.dll
+D:\Jemish\Collage\Codes\.NET\Rough3\bin\Debug\net6.0-windows\Rough3.pdb
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.Form1.resources
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.vbproj.GenerateResource.cache
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.AssemblyInfoInputs.cache
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.AssemblyInfo.vb
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.vbproj.CoreCompileInputs.cache
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.dll
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\ref\Rough3.dll
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.pdb
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.genruntimeconfig.cache
+D:\Jemish\Collage\Codes\.NET\Rough3\obj\Debug\net6.0-windows\Rough3.vbproj.AssemblyReference.cache

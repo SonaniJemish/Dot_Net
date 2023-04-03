@@ -1,0 +1,12 @@
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\bin\Debug\net6.0-windows\Practical_13.exe
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\bin\Debug\net6.0-windows\Practical_13.dll
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.vbproj.AssemblyReference.cache
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.Form1.resources
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.vbproj.GenerateResource.cache
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.AssemblyInfoInputs.cache
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.AssemblyInfo.vb
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.vbproj.CoreCompileInputs.cache
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.dll
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\refint\Practical_13.dll
+C:\Users\P2IN\source\repos\Practical_13\Practical_13\obj\Debug\net6.0-windows\Practical_13.pdb

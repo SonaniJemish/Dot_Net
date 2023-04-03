@@ -1,0 +1,17 @@
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.vbproj.AssemblyReference.cache
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.Form1.resources
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.vbproj.GenerateResource.cache
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.AssemblyInfoInputs.cache
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.AssemblyInfo.vb
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.vbproj.CoreCompileInputs.cache
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\Practical_3.exe
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\Practical_3.deps.json
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\Practical_3.runtimeconfig.json
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\Practical_3.dll
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\ref\Practical_3.dll
+D:\Jemish\Collage\Codes\.NET\Practical_3\bin\Debug\net6.0-windows\Practical_3.pdb
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.dll
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\ref\Practical_3.dll
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.pdb
+D:\Jemish\Collage\Codes\.NET\Practical_3\obj\Debug\net6.0-windows\Practical_3.genruntimeconfig.cache
